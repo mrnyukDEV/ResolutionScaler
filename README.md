@@ -1,0 +1,2 @@
+# ResolutionScaler
+PSX resolution
